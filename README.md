@@ -1,9 +1,9 @@
 > # EliteBOTrading - APP mobile
 
-&nbsp;&nbsp;&nbsp; This app was developed for a part of my final project of my studies of Administrator Networks and Systems.
+&nbsp;&nbsp;&nbsp; This app is for a trading BOT of cryptocurrencies, all the data of the user and the bot is extracted through API of the backend.
 
 > **Warning**
-&nbsp;&nbsp;&nbsp; This APP is a Alpha (There are errors and vulnerabilities).
+&nbsp;&nbsp;&nbsp; This app was developed for a part of my final project of my studies of Administrator Networks and Systems, is a Alpha (There are errors and vulnerabilities).
 
 ## Packages used
 
